@@ -23,7 +23,7 @@ deadcode:
 	deadcode ./...
 
 syso:
-	windres gomclauncher.rc -O coff -o gomclauncher.syso
+	windres reepak-cli.rc -O coff -o reepak-cli.syso
 
 reepak-linux:
 	CGO_ENABLED=0 GOOS=linux GOARCH=amd64 $(GO_BUILD) -o reepak-linux

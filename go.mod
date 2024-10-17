@@ -3,9 +3,9 @@ module github.com/ricochhet/reepak_cli
 go 1.22
 
 require (
-	github.com/ricochhet/reepak v0.0.0-20241010181946-11026d774262
+	github.com/ricochhet/reepak v0.0.0-20241017015607-d6e823a512a0
 	github.com/ricochhet/simplecrypto v0.0.0-20241010180431-a469bec97958
-	github.com/ricochhet/simplefs v0.0.0-20241010175917-fbcd128d68ad
+	github.com/ricochhet/simplefs v0.0.0-20241017013423-cccbb68c9dc9
 	github.com/ricochhet/simplelog v0.0.0-20241010180121-b23ed786893b
 	github.com/ricochhet/simpleutil v0.0.0-20241010173835-e3f6faa784ae
 )

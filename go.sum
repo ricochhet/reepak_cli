@@ -6,8 +6,8 @@ github.com/ricochhet/murmurhash3 v0.0.0-20241010175748-b76fa59b74df h1:FbDMOCQk6
 github.com/ricochhet/murmurhash3 v0.0.0-20241010175748-b76fa59b74df/go.mod h1:FkbO+hpAsvvCgZv7VtT1YZ0qZOWKfL96zFfk8bkyJ9Y=
 github.com/ricochhet/readwrite v0.0.0-20241010172637-533d3cb8456c h1:fu0NsJBNDB+xERq905OslWYB5Qp9sPAtTpxysZJLw30=
 github.com/ricochhet/readwrite v0.0.0-20241010172637-533d3cb8456c/go.mod h1:W6dkZ/KL3RpwAofqfkM4LmjhtsO2LgdP4sybqeUOppg=
-github.com/ricochhet/reepak v0.0.0-20241018024841-4eda41c6a9ff h1:fSfU71yvD1YJ0EbHEpj/Mq7tCRO8zOVhKSQN2/usxwc=
-github.com/ricochhet/reepak v0.0.0-20241018024841-4eda41c6a9ff/go.mod h1:EEtJ4hLr5NQpJGTVw4UuVmczBnyxVgef0ifY6AHbhog=
+github.com/ricochhet/reepak v0.0.0-20241020192525-5e3273a853aa h1:cHjUNxZzx/sR24c9qD/UljIh6JHshC4KOkVnKwVRs+U=
+github.com/ricochhet/reepak v0.0.0-20241020192525-5e3273a853aa/go.mod h1:nbzuBHqMjoQ7ZCxLeLYyRWUsJK2rciQ2fcIWW1itbPI=
 github.com/ricochhet/simplecrypto v0.0.0-20241010180431-a469bec97958 h1:mjbt9p0JybWbO1dUtVN0DQtMHoLyNo1Zfmrdt31MnPU=
 github.com/ricochhet/simplecrypto v0.0.0-20241010180431-a469bec97958/go.mod h1:ZYtAgQnG4X7TAVTlW8wmZ4b0QlgbwhV6u5hI28E9M2U=
 github.com/ricochhet/simplefs v0.0.0-20241020191600-51df0c7b11bf h1:xbHyYBwDHVLhV4EpVB3KeAD3EAgbH9PCNc5RPjup0Uo=
